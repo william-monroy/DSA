@@ -6,3 +6,5 @@ All the questions are gathered from some of the best platforms out there such as
 Thank you give a star ⭐️ to us if liked this repository.
 
 # Hola
+
+David y Alexa
